@@ -1,53 +1,64 @@
 # HTML Email Newsletter Template
 
-A clean, simple, and responsive HTML template designed for a corporate email newsletter. This project provides a ready-to-use structure for an email marketing campaign, built with basic HTML and CSS.
+A clean, simple, and responsive HTML email template designed for personal use. This template provides a ready-to-use structure for crafting professional email newsletters with basic HTML and CSS.
 
-## Description
+## Project Description
 
-This repository contains the source code for a static email newsletter. The template is designed to be easily customizable for any business, featuring a header with a logo, a prominent banner image, a content section, a call-to-action button, and a footer with contact details. The styling is self-contained and uses Google Fonts for modern typography.
+This repository contains a customizable static email newsletter template. It features a header with a logo, a prominent banner image, a content section, a call-to-action button, and a footer with contact information. The styling is self-contained within the HTML file and uses Google Fonts for a modern and clean typography style.
 
-## How to Use
+This project is intended **for personal use only**. No permissions are granted for distribution, copying, or creating derivative works.
 
-There is no complex setup required. To view or edit the template, follow these steps:
+## Usage
 
-1.  **Clone the repository:**
+To inspect or customize the template for **personal, non-commercial use**, follow these steps:
+
+1. **Clone the repository:**
     ```sh
-    git clone https://github.com/veronica-coulombe/test-email.git
+    git clone https://github.com/veronica-coulombe/HTML-Email-Newsletter-Template.git
     ```
-2.  **Navigate to the project directory:**
+
+2. **Navigate to the project folder:**
     ```sh
-    cd test-email
+    cd HTML-Email-Newsletter-Template
     ```
-3.  **Open the HTML file:**
-    Open the `index.html` (or the name of your HTML file) in any modern web browser to see the template.
+
+3. **Open the template in your browser:**
+    Open the `index.html` file (or your renamed HTML file) in any modern web browser to view the email layout.
 
 ### Customization
 
-You can easily customize this template:
+- Edit the `index.html` file to replace placeholder text and images with your own content.
+- Modify styles directly within the `<style>` block in the `<head>` section to adjust colors, fonts, spacing, and layout.
 
-  * **Content:** Open the HTML file and replace the placeholder text and image URLs with your own content.
-  * **Styling:** All styles are located within the `<style>` tags in the `<head>` of the HTML document. You can modify colors, fonts, spacing, and other properties here.
 
 ## Technologies Used
 
-This project is built with fundamental web technologies, requiring no frameworks or libraries.
-
-  * **HTML5:** Used for the structure and content of the email.
-  * **CSS3:** Used for all styling, including layout, colors, and typography.
-  * **Google Fonts:** The "Reddit Sans" font is imported for a clean and modern look.
+- **HTML5** – Structure and content of the email template
+- **CSS3** – Styling including layout, colors, and typography
+- **Google Fonts** – Uses the "Reddit Sans" font for modern typography
 
 ## Contributing
 
-Contributions are welcome\! If you have suggestions to improve the template, feel free to fork the repository and submit a pull request.
+This project is for personal use only, so contributions are not accepted.
 
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
+## License & Usage
 
-## License
+This project is provided for **personal, non-commercial use only**. You are allowed to:
 
-This project is open-source and available to everyone. You can choose a license that fits your needs. The **MIT License** is a popular choice.
+- Clone or download the repository
+- Customize the template for your own private or internal use
 
-Distributed under the MIT License. See `LICENSE` for more information.
+You are **not allowed** to:
+
+- Redistribute this template or any modified version of it
+- Use it in commercial products or services
+- Publish it in public repositories or template collections
+- Create derivative works for public or commercial distribution
+
+By using this template, you agree to these terms.
+
+---
+
+*If you have questions about using or modifying this template for your personal projects, feel free to reach out.*
+
+
